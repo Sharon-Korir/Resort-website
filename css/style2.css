@@ -1,0 +1,20 @@
+h1{
+  color: black;
+  background-color: white;
+  font-size: 32px;
+}
+body{
+  background-color:  #ffa500;
+  font-family: serif;
+  font-style: normal;
+  font-size: medium;
+}
+ul{
+  line-height: 0.3in;
+}
+img{
+  align-items: center;
+}
+ol{
+  align-items: center;
+}
